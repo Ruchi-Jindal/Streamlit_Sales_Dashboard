@@ -17,4 +17,4 @@ $ pip install streamlit
 
 4) once the Streamlit is installed we can run the above python file to visulize the data:
 
-$ streamlit run <python filename>
+$ streamlit run "<python filename>"
