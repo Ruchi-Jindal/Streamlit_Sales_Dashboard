@@ -18,3 +18,8 @@ Where we are guiding conda to create environment with the name of "stenv" that u
 4) once the Streamlit is installed we can run the above python file to visulize the data:
 
 ### $ streamlit run streamlit_1.py
+
+
+
+
+![Dasboard](https://github.com/Ruchi-Jindal/Streamlit_Sales_Dashboard/blob/main/img1.png "Sales Dashboard")
